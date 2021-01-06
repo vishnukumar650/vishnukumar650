@@ -1,0 +1,25 @@
+{
+  "name": "vishnukumar650",
+  "version": "1.0.0",
+  "bin": {
+    "vishnukumar650": "index.js"
+  },
+  "description": "\"Get to know about me. You will know everything from my skills to social handles...!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnukumar650/vishnukumar650.git"
+  },
+  "keywords": [
+    "vishnukumar650"
+  ],
+  "author": "vishnukumar650",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnukumar650/vishnukumar650/issues"
+  },
+  "homepage": "https://github.com/vishnukumar650/vishnukumar650#readme"
+}
