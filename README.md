@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there I am P Vishnu Kumar Reddy👋
 
-**Get to know vishnukumar650 via npm. Just run `npx vishnukumar650`**
+**Get to know about me via npm. Just run `npx vishnukumar650`**
 
 Here are some ideas to get you started:
 
