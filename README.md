@@ -2,6 +2,17 @@
 
 **Get to know about me via npm. Just run `npx vishnukumar650`**
 
+<code> Lets Connect </code>
+
+<a href="https://twitter.com/vishnukumar650" target="_blank">
+  <img align="left" alt="Vishnu Kumar Reddy | Twitter" width="21px" src="./img/twitter.png" />
+</a>
+<a href='https://www.linkedin.com/in/vishnukumar650/' target='_blank' rel='noopener' rel='noreferrer'>
+  <img src='./img/linkedin.png' />
+</a>
+
+</br>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web application development
@@ -12,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vishnukumar650@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: southpaw
--->
+  -->
