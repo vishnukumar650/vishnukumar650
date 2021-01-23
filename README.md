@@ -7,11 +7,9 @@
 <a href="https://facebook.com/vishnukumarreddyp">
 <img alt="Facebook" title="Facebook" width="22px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/facebook.svg">
 </a>
-
 <a href="https://instagram.com/vishnukumar650">
   <img align="left" alt="Vishnu's Instagram" width="22px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/instagram.svg" />
 </a>
-
 <a href="https://discordapp.com/users/vishnukumar650#1705">
   <img align="left" alt="Vishnu's Discord" width="22px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/discord.svg" />
 </a>
