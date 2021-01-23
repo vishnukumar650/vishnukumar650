@@ -4,7 +4,7 @@
 
 <code> Lets Connect </code>
 
-<a href="https://facebook.com/peterthehan"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/twitter.png"></a>
+<a href="https://facebook.com/peterthehan"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/instagram.svg"></a>
 
 <a href="https://discordapp.com/users/vishnukumar650#1705">
   <img align="left" alt="Vishnu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
