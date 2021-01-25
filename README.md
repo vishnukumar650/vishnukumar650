@@ -11,13 +11,17 @@
 <h3 align="justify">
 Vishnu Kumar (aka bewakoof - vishnukumar650)
 </h3>
+
 <h3 align="justiy">
 Computer Geek turned Ethical Hacker and Full-Stack Developer. Winner of InCTF, a National Level Cyber Security Competition.
 Udacity Machine Learning Engineer. Linux Power User with touch typing. Java joker and magician who can crack silly jokes with it.
 Fed and loved python snake for my ethical hacking tasks. I secured 14th place (joint 1st smiley ) in international CTF event.
 I made up of HTML and CSS. But my actions are based on javascript, which can be a two-edged sword, so be cautious with me :)
-
 </h3>
+
+## Languages and Tools
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 
 <code> Lets Connect </code>
 
