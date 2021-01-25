@@ -37,6 +37,8 @@
 <img align="left" alt="Vishnu's Facebook" title="Facebook" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/facebook.svg">
 </a>
 
+<br>
+
 <hr>
 <p align="center"> 
   Visitor count<br>
