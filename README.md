@@ -39,6 +39,16 @@
 
 <br>
 
+<!--
+<a href=https://github-readme-stats.vercel.app">
+-->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar650&layout=compact" alt="Vrinda6828" />
+ </a>
+
+<a href="https://github.com/Vrindagupta6828/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnukumar650&show_icons=true&theme=radical&count_private=true" alt="VrindaGupta github stats" />
+</a>
+
 <hr>
 <p align="center"> 
   Visitor count<br>
