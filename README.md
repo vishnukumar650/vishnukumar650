@@ -42,5 +42,5 @@
   <section>
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar650&layout=compact" alt="Vrinda6828" />
 
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=vishnukumar650&show_icons=true&theme=radical&count_private=true" alt="VrindaGupta github stats" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=vishnukumar650&show_icons=true&theme=radical&count_private=true" alt="VrindaGupta github stats" />
 </section>
