@@ -4,24 +4,33 @@
 
 <code> Lets Connect </code>
 
-<a href="https://facebook.com/vishnukumarreddyp">
-<img alt="Facebook" title="Facebook" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/facebook.svg">
-</a>
 <a href="https://instagram.com/vishnukumar650">
-  <img align="left" alt="Vishnu's Instagram" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/instagram.svg" />
+  <img align="left" alt="Vishnu's Instagram" width="36px" title="Instagram" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/instagram.svg" />
 </a>
 <a href="https://discordapp.com/users/vishnukumar650#1705">
-  <img align="left" alt="Vishnu's Discord" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/discord.svg" />
+  <img align="left" alt="Vishnu's Discord" width="36px" title="Discord" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/discord.svg" />
 </a>
 <a href="https://twitter.com/vishnukumar650">
-  <img align="left" alt="Vishnu Kumar Reddy | Twitter" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/twitter.svg" />
+  <img align="left" alt="Vishnu Kumar Reddy | Twitter" title="Twitter" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vishnukumar650/">
-  <img align="left" alt="Vishnu's LinkedIN" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/linkedin.svg" />
+  <img align="left" alt="Vishnu's LinkedIN" title="Linkedin" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/tzd02yevxadlhz0h2e2w7ivyn">
-  <img align="left" alt="Vishnu's Spotify" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/spotify.svg" />
+  <img align="left" alt="Vishnu's Spotify" title="Spotify" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/spotify.svg" />
 </a>
 <a href="https://www.reddit.com/user/vishnukumar650/">
-  <img align="left" alt="Vishnu's Reddit" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/reddit.svg" />
+  <img align="left" alt="Vishnu's Reddit" title="Reddit" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/reddit.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCU8HBbtPv_IRrha3NS9lMmg">
+  <img align="left" alt="Vishnu's Youtube" title="Youtube" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/youtube.svg" />
+</a>
+<a href="https://www.quora.com/profile/Vishnukumar650-1">
+  <img align="left" alt="Vishnu's Quora" title="Quora" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/quora.svg" />
+</a>
+<a href="https://www.pinterest.com/vishnukumar650/">
+  <img align="left" alt="Vishnu's Pinterest" title="Pinterest" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/pinterest.svg" />
+</a>
+<a href="https://facebook.com/vishnukumarreddyp">
+<img align="left" alt="Vishnu's Facebook" title="Facebook" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/facebook.svg">
 </a>
