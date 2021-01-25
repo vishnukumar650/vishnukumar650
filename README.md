@@ -47,4 +47,3 @@
   <br>
 </section>
 <br><br>
-<hr>
