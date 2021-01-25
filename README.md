@@ -1,6 +1,6 @@
 ### Hi there I am P Vishnu Kumar Reddy👋
 
-**Get to know about me via npm. Just run `npx vishnukumar650`**
+- Get to know about me via npm. Just run `npx vishnukumar650`
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukumar650&label=Views&color=blue&style=plastic" alt="vishnukumar650" /> </p>
 
