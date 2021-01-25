@@ -36,3 +36,9 @@
 <a href="https://facebook.com/vishnukumarreddyp">
 <img align="left" alt="Vishnu's Facebook" title="Facebook" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/facebook.svg">
 </a>
+
+<hr>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vishnukumar650/count.svg" />
+</p>
