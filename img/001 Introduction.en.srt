@@ -1,0 +1,95 @@
+1
+00:00:03,490 --> 00:00:06,090
+Welcome to the schools on Jawa do you.
+
+2
+00:00:06,160 --> 00:00:12,490
+I am trying to cover them and I have more than 15 years of experience developing designing and architecting
+
+3
+00:00:12,490 --> 00:00:14,320
+job applications.
+
+4
+00:00:14,340 --> 00:00:20,230
+I have interviewed more than 500 candidate during my period or two of the school is to refresh your
+
+5
+00:00:20,230 --> 00:00:24,340
+job our concepts and fill the gaps in your preparation for job interview.
+
+6
+00:00:24,340 --> 00:00:30,880
+Remember this is not a job one or one course you are expected to have a programming experience and use
+
+7
+00:00:30,880 --> 00:00:33,280
+the skills as a quick refresher.
+
+8
+00:00:33,280 --> 00:00:36,420
+We cover a wide range of topics during this course.
+
+9
+00:00:36,520 --> 00:00:40,670
+We talk about job black phone Jerry GBM platform independent.
+
+10
+00:00:40,720 --> 00:00:45,790
+We talk about object oriented programming abstraction and get lation inheritance polymorphism.
+
+11
+00:00:45,820 --> 00:00:47,990
+We talk about abstract class interfaces.
+
+12
+00:00:48,010 --> 00:00:49,160
+Cohesion.
+
+13
+00:00:49,310 --> 00:00:53,550
+And we also discuss collections genitor extract.
+
+14
+00:00:53,570 --> 00:00:59,350
+Exception handling and we in the course by discussing the Jawa 8 new features on functional programming
+
+15
+00:00:59,470 --> 00:01:05,640
+lambda expressions and streams were used more than 200 code examples to illustrate these concepts.
+
+16
+00:01:05,680 --> 00:01:10,040
+All the code we use is available on our get her repository in 28 minutes.
+
+17
+00:01:10,080 --> 00:01:11,990
+Jawaid to your question to answer.
+
+18
+00:01:12,130 --> 00:01:17,800
+What's more you'll also get a free PDA if in the course of contains the questions that we discuss during
+
+19
+00:01:17,800 --> 00:01:21,510
+these apps as well as a short answer for each one of them.
+
+20
+00:01:21,640 --> 00:01:25,540
+We have had more than a thousand students do better at their job interview.
+
+21
+00:01:25,540 --> 00:01:26,370
+Do you want to join them.
+
+22
+00:01:26,410 --> 00:01:27,420
+Join the cause.
+
+23
+00:01:27,460 --> 00:01:30,970
+You can also take a test drive by using the free preview feature.
+
+24
+00:01:31,000 --> 00:01:32,150
+See you in the Indico.
