@@ -8,7 +8,7 @@
 
 ## Who Am I?
 
-<span align="center">
+<span align="justify">
 Vishnu Kumar (aka bewakoof - vishnukumar650)
 
 Computer Geek turned Ethical Hacker and Full-Stack Developer. Winner of InCTF, a National Level Cyber Security Competition.
