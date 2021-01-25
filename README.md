@@ -40,10 +40,10 @@
 <br><br>
 
   <section>
-  <a href="ggogle.com">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar650&show_icons=true&theme=radical&layout=compact&count_private=true">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar650&show_icons=true&theme=radical&layout=compact&count_private=true" alt="vishnukumar650's Most Used Languages" >
   </a>
-  <a href="google.com">
+  <a href="https://github-readme-stats.vercel.app/api?username=vishnukumar650&show_icons=true&theme=radical&layout=compact&count_private=true">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=vishnukumar650&show_icons=true&theme=radical&layout=compact&count_private=true" alt="vishnukumar650's Github Stats" >
   </a>
   <br>
