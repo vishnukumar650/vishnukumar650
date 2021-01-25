@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/hello.gif" alt="hello" /> </p>
 
-# Hi there I am Vishnu Kumar Reddy👋
+# Hi 👋, I'm Vishnu Kumar Reddy
 
-**Get to know about me via npm. Just run `npx vishnukumar650`**
+## **Get to know about me via npm. Just run `npx vishnukumar650`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukumar650&label=Views&color=blue&style=plastic" alt="vishnukumar650" /> </p>
 
