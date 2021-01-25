@@ -47,8 +47,8 @@
 <br><br>
 <hr>
 <div>
-<p> 
-  Visitor count<br>
+<p align="center"> 
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/vishnukumar650/count.svg" />
 </p>
 </div>
