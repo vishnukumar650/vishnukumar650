@@ -8,7 +8,7 @@
 
 ## Who Am I?
 
-<p align="justify">
+<h3 align="justify">
 ### Vishnu Kumar (aka bewakoof - vishnukumar650)
 
 Computer Geek turned Ethical Hacker and Full-Stack Developer. Winner of InCTF, a National Level Cyber Security Competition.
@@ -16,7 +16,7 @@ Udacity Machine Learning Engineer. Linux Power User with touch typing. Java joke
 Fed and loved python snake for my ethical hacking tasks. I secured 14th place (joint 1st smiley ) in international CTF event.
 I made up of HTML and CSS. But my actions are based on javascript, which can be a two-edged sword, so be cautious with me :)
 
-</p>
+</h3>
 
 <code> Lets Connect </code>
 
