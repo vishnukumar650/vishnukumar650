@@ -41,7 +41,7 @@
 
   <section>
   <a href="ggogle.com">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar650&show_icons=true&theme=radical&layout=compact&count_private=true" alt="vishnukumar650's Most Used Languages" >
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar650&show_icons=true&theme=radical&layout=compact&count_private=true" alt="vishnukumar650's Most Used Languages" >
   </a>
   <a href="google.com">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=vishnukumar650&show_icons=true&theme=radical&layout=compact&count_private=true" alt="vishnukumar650's Github Stats" >
