@@ -10,8 +10,8 @@
 
 <h3 align="justify">
 Vishnu Kumar (aka bewakoof - vishnukumar650)
-<br>
-
+</h3>
+<h3>
 Computer Geek turned Ethical Hacker and Full-Stack Developer. Winner of InCTF, a National Level Cyber Security Competition.
 Udacity Machine Learning Engineer. Linux Power User with touch typing. Java joker and magician who can crack silly jokes with it.
 Fed and loved python snake for my ethical hacking tasks. I secured 14th place (joint 1st smiley ) in international CTF event.
