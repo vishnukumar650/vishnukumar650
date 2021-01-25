@@ -2,6 +2,12 @@
 
 **Get to know about me via npm. Just run `npx vishnukumar650`**
 
+<hr>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vishnukumar650/count.svg" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukumar650&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <code> Lets Connect </code>
