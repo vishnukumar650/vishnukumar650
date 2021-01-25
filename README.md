@@ -2,7 +2,7 @@
 
 **Get to know about me via npm. Just run `npx vishnukumar650`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukumar650&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <code> Lets Connect </code>
 
