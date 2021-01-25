@@ -40,10 +40,12 @@
 <br><br>
 
   <section>
+  <a href="ggogle.com">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar650&layout=compact" alt="Vrinda6828" >
-
+  </a>
+  <a href="google.com">
   <img width="51%" src="https://github-readme-stats.vercel.app/api?username=vishnukumar650&show_icons=true&theme=radical&count_private=true" alt="VrindaGupta github stats" >
-
+  </a>
   <br>
 </section>
 <br><br>
