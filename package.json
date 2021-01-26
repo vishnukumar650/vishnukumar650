@@ -2,7 +2,8 @@
   "name": "vishnukumar650",
   "version": "1.0.1",
   "bin": {
-    "vishnukumar650": "index.js"
+    "vishnukumar650": "index.js",
+    "vishnukumar650 fav-quotes": "fav-quotes.js"
   },
   "description": "\"Get to know about me. You will know everything from my skills to social handles...!!!",
   "main": "index.js",
