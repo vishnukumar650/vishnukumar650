@@ -25,6 +25,7 @@ I made up of HTML and CSS. But my actions are based on javascript, which can be 
 
 <code> Lets Connect </code>
 
+<section align="center">
 <a href="https://instagram.com/vishnukumar650">
   <img align="left" alt="Vishnu's Instagram" width="36px" title="Instagram" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/instagram.svg" />
 </a>
@@ -55,6 +56,7 @@ I made up of HTML and CSS. But my actions are based on javascript, which can be 
 <a href="https://facebook.com/vishnukumarreddyp">
 <img align="left" alt="Vishnu's Facebook" title="Facebook" width="36px" src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/facebook.svg">
 </a>
+</section>
 
 <br><br>
 
