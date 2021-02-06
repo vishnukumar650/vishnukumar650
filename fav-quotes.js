@@ -32,4 +32,6 @@ console.log(`
 “Make it work, make it right, make it fast.” – Kent Beck
 
 "Hacking is an extremely creative profession"
+
+"Creativity is the greatest rebellion osho"
 `);
