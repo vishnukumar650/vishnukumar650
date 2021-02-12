@@ -34,4 +34,6 @@ console.log(`
 "Hacking is an extremely creative profession"
 
 "Creativity is the greatest rebellion osho"
+
+"Make it as simple as possible"
 `);
