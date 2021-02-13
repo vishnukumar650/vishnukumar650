@@ -36,4 +36,6 @@ console.log(`
 "Creativity is the greatest rebellion osho"
 
 "Make it as simple as possible"
+
+"Customer is your God, so make sure whatever you design, design it for god"
 `);
