@@ -40,4 +40,6 @@ console.log(`
 "Customer is your God, so make sure whatever you design, design it for god"
 
 "Have the courage to Follow your heart and intuition" -- Steve Jobs 
+
+"Stay Hungry, Stay Foolish!" -- Steve Jobs
 `);
