@@ -42,4 +42,6 @@ console.log(`
 "Have the courage to Follow your heart and intuition" -- Steve Jobs 
 
 "Stay Hungry, Stay Foolish!" -- Steve Jobs
+
+"Creativity is Just Connecting Things" -- Steve Jobs
 `);
