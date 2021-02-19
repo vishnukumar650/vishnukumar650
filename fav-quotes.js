@@ -39,9 +39,11 @@ console.log(`
 
 "Customer is your God, so make sure whatever you design, design it for god"
 
-"Have the courage to Follow your heart and intuition" -- Steve Jobs 
+"Have the courage to Follow your heart and intuition" – Steve Jobs 
 
-"Stay Hungry, Stay Foolish!" -- Steve Jobs
+"Stay Hungry, Stay Foolish!" – Steve Jobs
 
-"Creativity is Just Connecting Things" -- Steve Jobs
+"Creativity is Just Connecting Things" – Steve Jobs
+
+”When you are grateful, fear disappears and abundance appears.” – Tony Robbins
 `);
