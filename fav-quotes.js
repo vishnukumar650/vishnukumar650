@@ -46,4 +46,6 @@ console.log(`
 "Creativity is Just Connecting Things" – Steve Jobs
 
 ”When you are grateful, fear disappears and abundance appears.” – Tony Robbins
+
+“Computers are good at following instructions, but not at reading your mind.” — Donald Knuth
 `);
