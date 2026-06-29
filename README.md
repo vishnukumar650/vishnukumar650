@@ -1,23 +1,24 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/hello.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/img/hello.gif" width="220"/>
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Vishnu Kumar Reddy
-</h1>
-
-<h3 align="center">
-FullStack Developer • React • Next.js • JavaScript • Spring Boot
-</h3>
+<h1 align="center">Hey, I'm Vishnu Kumar Reddy 👋</h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vAlign=middle&width=480&lines=FullStack+Developer;React+%26+Next.js+Enthusiast;Java+%26+Spring+Boot+Engineer;5%2B+Years+of+Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-🚀 Building Modern Web Applications
+<p align="center">
+  <a href="https://linkedin.com/in/vishnukumar650"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/vishnukumar650"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/vishnukumar650"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:vishnukumar650@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-☁️ AWS • System Design • Software Architecture
-
-💻 5+ Years of Full-Stack Development Experience
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishnukumar650&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -25,131 +26,109 @@ FullStack Developer • React • Next.js • JavaScript • Spring Boot
 ## 👨‍💻 About Me
 
 - ⚛️ Frontend Developer specializing in **React.js** & **Next.js**
-- 💡 Passionate about building fast, responsive and scalable applications
-- 🧠 Love learning Software Architecture & System Design
-- 🌐 Built multiple production-ready web applications
-- 🎓 Java Trainer with 5+ years of teaching experience
-- 🚀 Always learning something new
+- ☕ Backend engineer with **Spring Boot** & **Node.js**
+- 🏆 **14th place globally** in an international CTF competition | Winner of **InCTF**
+- 🎓 **Java Trainer** with 5+ years of teaching experience
+- 🧠 Passionate about **System Design**, **Software Architecture**, and **AI-powered apps**
+- 🌐 Built multiple production-ready applications from scratch
+- 🚀 Always learning, always building
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
 ### Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
-### Database
-
+### Database & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
 </p>
 
-### Dev Tools
-
+### Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,npm,docker" />
 </p>
 
 ---
 
 ## 📌 Current Focus
 
-- ⚛️ Advanced React
-- 🚀 Next.js
-- ☁️ AWS
-- 🏗️ System Design
-- 🤖 AI Powered Applications
+| Area | What I'm Exploring |
+|------|--------------------|
+| ⚛️ React | Advanced patterns, performance optimization |
+| 🚀 Next.js | App Router, Server Components, SSR/SSG |
+| ☁️ AWS | EC2, S3, Lambda, CloudFront |
+| 🏗️ System Design | Scalable architectures, microservices |
+| 🤖 AI Apps | LLM integrations, AI-assisted workflows |
 
 ---
 
 ## 📂 Featured Projects
 
-### 🛒 XableKart
+### 🛒 [XableKart](https://github.com/vishnukumar650)
+> Village-first Grocery Marketplace connecting local vendors to customers
 
-Village-first Grocery Marketplace
-
-- React
-- Spring Boot
-- MongoDB
-- REST APIs
+**Stack:** React · Spring Boot · MongoDB · REST APIs
 
 ---
 
-### 📚 DSA Using JavaScript
+### 📚 [DSA Using JavaScript](https://github.com/vishnukumar650)
+> Clean implementations of Data Structures & Algorithms in JavaScript — great for interview prep
 
-Data Structures & Algorithms implementation in JavaScript.
+**Stack:** JavaScript · Algorithms · Data Structures
 
 ---
 
-### 📈 Portfolio Website
+### 🌐 [Portfolio Website](https://github.com/vishnukumar650)
+> Modern, fully responsive personal portfolio
 
-Modern responsive portfolio built using React.
+**Stack:** React · Tailwind CSS · Vite
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishnukumar650&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukumar650&theme=tokyonight"/>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishnukumar650&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukumar650&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar650&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumar650&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnukumar650&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
-<p>
-
-<a href="https://github.com/vishnukumar650">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/vishnukumar650">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://twitter.com/vishnukumar650">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="mailto:vishnukumar650@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-## ⚡ Fun Fact
+## ⚡ Try My NPX Card
 
 ```bash
 npx vishnukumar650
 ```
 
-> Get to know me directly from your terminal 😄
+```bash
+npx vishnukumar650 fav-quotes
+```
+
+> Get to know me — and grab a random coding quote — right from your terminal 😄
 
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/vishnukumar650/vishnukumar650/master/coder.gif" width="300"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=vishnukumar650&label=Profile+Views&color=0e75b6&style=flat"/>
-
+<p align="center">
+  <i>"Make it work, make it right, make it fast." — Kent Beck</i>
 </p>

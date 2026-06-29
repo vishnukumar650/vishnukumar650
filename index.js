@@ -1,15 +1,54 @@
-#!/usr/bin/node
+#!/usr/bin/env node
+
+const c = {
+  reset:   '\x1b[0m',
+  bold:    '\x1b[1m',
+  dim:     '\x1b[2m',
+  cyan:    '\x1b[36m',
+  green:   '\x1b[32m',
+  yellow:  '\x1b[33m',
+  blue:    '\x1b[34m',
+  magenta: '\x1b[35m',
+  white:   '\x1b[37m',
+  gray:    '\x1b[90m',
+};
+
+const divider = `${c.gray}${'─'.repeat(54)}${c.reset}`;
 
 console.log(`
-Vishnu Kumar (aka bewakoof - vishnukumar650)
+${divider}
 
-Computer Geek turned Ethical Hacker and Full-Stack Developer. Winner of InCTF, a National Level Cyber Security Competition.
-Udacity Machine Learning Engineer. Linux Power User with touch typing. Java joker and magician who can crack silly jokes with it.
-Fed and loved python snake for my ethical hacking tasks. I secured 14th place (joint 1st smiley ) in international CTF event.
-I made up of HTML and CSS. But my actions are based on javascript, which can be a two-edged sword, so be cautious with me :)
+  ${c.bold}${c.cyan}  Vishnu Kumar Reddy${c.reset}  ${c.gray}(vishnukumar650)${c.reset}
 
-🐥  Twitter: https://twitter.com/vishnukumar650
-📖  Github:  https://github.com/vishnukumar650
-🎃  Blog:    https://restcomputers.com  🐥
+  ${c.yellow}FullStack Developer • React • Next.js • Spring Boot${c.reset}
 
-`);  
+${divider}
+
+  ${c.green}About${c.reset}
+  ${c.white}5+ years building modern, production-ready web apps.${c.reset}
+  ${c.white}Java trainer, CTF competitor (14th globally 🏆),${c.reset}
+  ${c.white}and a firm believer that clean code is an art form.${c.reset}
+
+  ${c.green}Stack${c.reset}
+  ${c.cyan}Frontend${c.reset}  ${c.white}React · Next.js · TypeScript · Tailwind${c.reset}
+  ${c.cyan}Backend ${c.reset}  ${c.white}Spring Boot · Node.js · Express${c.reset}
+  ${c.cyan}Database${c.reset}  ${c.white}MySQL · MongoDB · Firebase${c.reset}
+  ${c.cyan}Cloud   ${c.reset}  ${c.white}AWS · System Design · REST APIs${c.reset}
+
+  ${c.green}Currently Building${c.reset}
+  ${c.white}⚡ XableKart — Village-first Grocery Marketplace${c.reset}
+  ${c.white}🤖 AI-powered web applications${c.reset}
+
+${divider}
+
+  ${c.magenta}🐦  Twitter  ${c.reset}  https://twitter.com/vishnukumar650
+  ${c.magenta}💼  LinkedIn ${c.reset}  https://linkedin.com/in/vishnukumar650
+  ${c.magenta}🐙  GitHub   ${c.reset}  https://github.com/vishnukumar650
+  ${c.magenta}✉️   Email    ${c.reset}  vishnukumar650@gmail.com
+
+${divider}
+
+  ${c.gray}Run ${c.reset}${c.cyan}npx vishnukumar650 fav-quotes${c.reset}${c.gray} for some inspiration 💡${c.reset}
+
+${divider}
+`);

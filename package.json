@@ -1,23 +1,31 @@
 {
   "name": "vishnukumar650",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "bin": {
     "vishnukumar650": "index.js",
     "vishnukumar650 fav-quotes": "fav-quotes.js"
   },
-  "description": "\"Get to know about me. You will know everything from my skills to social handles...!!!",
+  "description": "Get to know Vishnu Kumar Reddy — FullStack Developer, Java Trainer & CTF competitor. Run `npx vishnukumar650` in your terminal.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "quotes": "node fav-quotes.js",
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vishnukumar650/vishnukumar650.git"
   },
   "keywords": [
-    "vishnukumar650"
+    "vishnukumar650",
+    "vishnu kumar",
+    "fullstack developer",
+    "react",
+    "nextjs",
+    "spring boot",
+    "npx card"
   ],
-  "author": "vishnukumar650",
+  "author": "Vishnu Kumar Reddy <vishnukumar650@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vishnukumar650/vishnukumar650/issues"
